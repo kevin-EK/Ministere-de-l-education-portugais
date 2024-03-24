@@ -1,4 +1,3 @@
-# ekinox
 Source:
 Paulo Cortez, University of Minho, Guimares, Portugal, http://www3.dsi.uminho.pt/pcortez
 
